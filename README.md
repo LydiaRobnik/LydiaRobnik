@@ -1,4 +1,4 @@
-Welcome to my GitHub profile!
+# Welcome to my GitHub profile!
 
 I am Lydia, graduated in business administration with focus on sports management and currently completing a bootcamp in web and app development at WBS Coding School. We learn HTML, CSS, JavaScript, React, SQL, NodeJS, Express and MongoDB.
 
