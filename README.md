@@ -1,8 +1,8 @@
 # Welcome to my GitHub profile!
 
-I am Lydia, graduated in business administration with focus on sports management and currently completing a bootcamp in web and app development @WBS CODING SCHOOL | Berlin. 
+I am Lydia, graduated in business administration with focus on sports management and in May 2022 completed a 15-weeks training in web and app development @WBS CODING SCHOOL | Berlin. 
 
-We learn:  
+We learned:  
 *HTML | CSS | JavaScript | React | Git | GitHub | SQL | MongoDB | NodeJS | Express | UI/UX Design*
 
 Over the past twelve years I gained working experience in project management in psychosomatic research and in agile methods. I am highly interested in learning new things and love creative crafting projects (like sewing or restoring an old bike).
